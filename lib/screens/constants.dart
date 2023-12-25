@@ -1,0 +1,55 @@
+class Constants{
+  static const vehicleList = [
+    'Toyota',
+    'Ford',
+    'Chevrolet',
+    'Honda',
+    'Nissan',
+    'Mercedes-Benz',
+    'BMW',
+    'Audi',
+    'Volkswagen',
+    'Hyundai',
+    'Kia',
+    'Volvo',
+    'Subaru',
+    'Mazda',
+    'Jeep',
+    'Chrysler',
+    'Dodge',
+    'Ram',
+    'Buick',
+    'Cadillac',
+    'GMC',
+    'Lexus',
+    'Infiniti',
+    'Acura',
+    'Land Rover',
+    'Range Rover',
+    'Jaguar',
+    'Porsche',
+    'Ferrari',
+    'Lamborghini',
+    'Maserati',
+    'Alfa Romeo',
+    'Tesla',
+    'Fiat',
+    'Mini',
+    'Smart',
+    'Aston Martin',
+    'Bentley',
+    'Bugatti',
+    'Genesis',
+    'Hummer',
+    'Isuzu',
+    'Lotus',
+    'McLaren',
+    'Rolls-Royce',
+    'Suzuki'
+  ];
+
+  static const vehicleType = ['Bike','Car'];
+
+  static const fuelType = ['Petrol', 'Diesel'];
+
+}
